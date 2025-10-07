@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36202.13 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "reduced_motion_accessibility", "reduced_motion_accessibility.csproj", "{B2D2ADA8-57FB-644C-E75C-A2EBB36BE28C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2D2ADA8-57FB-644C-E75C-A2EBB36BE28C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2D2ADA8-57FB-644C-E75C-A2EBB36BE28C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2D2ADA8-57FB-644C-E75C-A2EBB36BE28C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2D2ADA8-57FB-644C-E75C-A2EBB36BE28C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {137BD7AE-BF43-4AD3-B19A-94E634A4734E}
+	EndGlobalSection
+EndGlobal
